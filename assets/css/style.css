@@ -49,3 +49,9 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+#hero-image {
+    width: 100%;
+    background:url('../images/landing\ page.jpg') no-repeat center center;
+    max-height: fit-content;
+}
