@@ -56,7 +56,14 @@ h1, h2 {
     height: 600px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
 }    
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
 
 
 #hero-image {
@@ -80,3 +87,47 @@ h1, h2 {
     }
 }
 
+#cover-text {
+    font-size: 130%;
+    font-family: Roboto , sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(241, 109, 107, .7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+}
+
+
+#middle-part {
+    height: 600px;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: green;
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+    background-color: greenyellow;
+}
