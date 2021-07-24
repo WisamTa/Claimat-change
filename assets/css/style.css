@@ -116,14 +116,13 @@ h1, h2 {
     padding-top: 30px;
     width: 33%;
     float: left;
-    background-color: blue;
+    
 }
 
 #right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: green;
 }
 
 #center-about {
@@ -147,4 +146,24 @@ h1, h2 {
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background: url('../images/poor.land.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+     }
+
+.left-about-heading {
+        width: 60%;
+        float: right;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
 }
