@@ -169,6 +169,23 @@ hr {
         margin-bottom: 50px;
 }
 
+.right-about-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+.right-about-heading h2 {
+    text-align: right;
+}
+
+
+.right-about-heading p {
+    text-align: right;
+}
+
+
 #demonstrations {
     background-image: url(../images/Demonstration.image.jpg); 
     background-repeat: no-repeat;
@@ -252,9 +269,11 @@ hr {
         float: left;
         padding: 0%;
     }
+   
 
     #hr {
         display: none;
+    }
     }
 
     /* For medium screen sizes from 950px wide and down */
@@ -267,3 +286,28 @@ hr {
         margin-bottom: 20px;
         line-height: 25px;
     }
+    #cover-text {
+        left: 0;
+    }
+
+    #middle-part {
+         width: 90%;
+         height: 1200px;
+         margin: 0 auto;
+
+    }
+    .left-about-heading, .right-about-heading {
+        width: inherit;
+
+    }
+    
+    .left-about-heading h2, .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+    .left-about-heading p, .right-about-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
+    
+}
