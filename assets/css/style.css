@@ -303,7 +303,21 @@ hr {
          .payment-options  {
             height: 150px;
             width: 100%;
+            text-align: center;
+            display: inline;
+
         }
+
+        .payment-options i {
+            font-size: 160%;
+            margin: 1%;
+            padding: 5%;
+            color: #3a3a3a;
+            }
+
+            .payment-options > li {
+                display: inline;
+            }
 
 @media screen and (max-width: 1200px) {
     #middle-part {
