@@ -269,6 +269,12 @@ hr {
         float: left;
         padding: 0%;
     }
+    #demonstrations > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
    
 
     #hr {
@@ -310,4 +316,18 @@ hr {
         padding: 0 20px;
     }
     
+    #photos {
+        column-count: 3;
+
+
+    }
+    
 }
+
+ /* For small screen sizes 800px and down */
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 2;
+    }
+}
+    
