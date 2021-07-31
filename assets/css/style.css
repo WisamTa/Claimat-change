@@ -68,7 +68,9 @@ h1, h2 {
 
 #hero-image {
     width: 100%;
-    background:url('../images/landing.page.jpg') no-repeat center center;
+    height: 600px;
+    background:url('../images/landing.page.jpg') no-repeat bottom right;
+    background-size: cover;
     max-height: fit-content;
     animation-name: hero-zoom;
     animation-duration: 5s;
