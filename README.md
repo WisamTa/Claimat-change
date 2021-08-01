@@ -57,3 +57,58 @@ We continually tweak and adjust this template to help give you the best experien
 ---
 
 Happy coding!
+
+                     Climate change 
+Climate Change  is a site that hopes to help keep people motivated to help save the environment and to rise up  the awareness  for the danger of climate change and global warming.
+The site will be targeted toward people who want to take actions for the environment.
+Climate Change  will be useful for people who want to donate my giving money or to do some changes in their life style reducing the waste by following simple hacks.  
+
+     Features
+Existing Features
+
+Navigation Bar:
+Featured on all three pages, the full responsive navigation bar includes links to Home page, Gallery and Take action page and is identical in each page to allow for easy navigation.
+This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+
+The landing page image (deserted land)
+
+The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
+This section introduces the user to Climate Change with an eye catching animation to grab their attention.
+
+       The middle part Section
+
+The middle part section will give the user the a wider view about what, why and how  to be an active in helping the environment process by giving them simple steps that can make difference   
+This user will see the value of taking action  for the climate change demonstrations times. 
+
+     Demonstration times section
+This section will allow the user to see exactly when the demonstration will happen, which cities they will be located?
+
+      The Footer
+
+The footer section includes links to the relevant social media sites for Climate Change. The links will open to a new tab to allow easy navigation for the user.
+The footer is valuable to the user as it encourages them to keep connected via social media
+
+     Gallery
+Will have a few images about that give hints about renewable power, electricity generated from dams, animals as a hint to the ecosystem, humans with the sun  as pureness.
+
+     The take action Page
+This page will allow the user to get signed up to Climate Change  to receive the latest about climate issues.
+
+     Validator Testing 
+HTML
+No errors were returned when passing through the official W3C validator
+CSS
+No errors were found when passing through the official (Jigsaw) validator
+
+         Deployment
+      https://wisamta.github.io/Claimat-change/
+
+      Content
+What is Clinmat Change  for the Home page was taken from https://warmheartworldwide.org/
+Why is so important to help the environment was taken from https://www.conserve-energy-future.com/
+What are the effects of global warming was taken from https://www.myclimate.org/
+      
+      Media
+The photos used on the pages are from https://pixels.com/
+ 
+
