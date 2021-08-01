@@ -138,7 +138,8 @@ h1, h2 {
 #important {
     text-align: center;
     margin: 50px 0;
-    font-size: 280%;
+    font-size: 250%;
+    color: red;
 }
 
 #circle-container {
@@ -169,11 +170,14 @@ hr {
 
 .left-about-heading {
         width: 60%;
-        float: right;
         line-height: 20px;
+        float: right;
         clear: both;
         margin-bottom: 50px;
         text-align: center;
+}
+.left-about-heading h2 {
+    text-align: center;
 }
 
 .right-about-heading {
@@ -421,7 +425,8 @@ hr {
  /* For small screen sizes 800px and down */
 @media screen and (max-width: 800px) {
     #photos {
-        column-count: 2;
+        column-count: 1;
     }
+    
 }
     
